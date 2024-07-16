@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "ConfigFile": "/Headless/Config/Config.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "/Headless/Config",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]
