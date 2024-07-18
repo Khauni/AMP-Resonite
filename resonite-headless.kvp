@@ -1,7 +1,7 @@
 Meta.DisplayName=Resonite Headless
 Meta.Description=Resonite Headless Server
 Meta.Arch=x86_64
-Meta.Author=Khauni - Made with AMP Config Generator
+Meta.Author=Khauni
 Meta.URL=https://store.steampowered.com/app/2519830/Resonite/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
